@@ -8,6 +8,6 @@ The Teams app is not currently published to the Teams App Store The app can be s
 
 ### Initial Install
 
-You Sideload an App by going into the "Apps", scrolling down to the bottom of the menu on the left and selecting "Upload a custom app." Upload the zip from the link in this document.
+You Sideload an App by going into  "Apps" in MS Teams, scrolling down to the bottom of the menu on the left and selecting "Upload a custom app." If you are using the Teas App you will have the option to install for a team or for your organization. Upload the zip from the link in this document.
 
-Once the App has been Sideloaded, you can install it to the Organization, or an individual Team inside the Organization. You must then create a connector by selecting the "..." menu next to a channel, for example #notifications-dev and selecting "Connectors". You can view Configured Connectors from the left or scroll all the way to the bottom to see the Sideloaded Connectors. Click the Configure button to set a new one up. The setup screen will ask you to log into the DisruptOps app, using your normal DisruptOps credentials, and will create the MSTeams recipient.
+The app should now be installed to your Organization or an individual Team inside the Organization. You must then create a connector by selecting the "..." menu next to a channel, for example #notifications and selecting "Connectors". You can view Configured Connectors from the left or scroll all the way to the bottom to see the Sideloaded Connectors. Click the Configure button to set a new one up. The setup screen will ask you to log into the DisruptOps app, using your normal DisruptOps credentials, and will create the MSTeams recipient.
